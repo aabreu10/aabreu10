@@ -19,11 +19,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aabreu10&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="aabreu10's GitHub Stats" />
   </a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aabreu10&theme=nightowl&radius=10" alt="aabreu10's Activity Graph" />
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -88,10 +86,3 @@
   <a href="https://www.linkedin.com/in/juan-abreu-navarro/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Juan Abreu's LinkedIn"/></a>
   <a href="mailto:abreujuan1710study@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Juan Abreu's Email"/></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
-
