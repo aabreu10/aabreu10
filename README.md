@@ -9,11 +9,11 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/aabreu10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aabreu10&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="aabreu10's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aabreu10&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="aabreu10's GitHub Stats" />
   </a>
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aabreu10&theme=tokyonight&radius=10" alt="aabreu10's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aabreu10&theme=nightowl&radius=10" alt="aabreu10's Activity Graph" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -23,7 +23,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/aabreu10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aabreu10&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aabreu10&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
